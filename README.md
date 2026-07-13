@@ -1,7 +1,9 @@
 # Integrate MCP with Copilot
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+Small harmless edit: added a tiny note for testing edits.
 Hey navinsc1981!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
